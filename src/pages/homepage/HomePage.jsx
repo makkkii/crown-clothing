@@ -5,9 +5,9 @@ import './homepage.scss'
 
 const HomePage = () => (
   <div className='homepage'>
-    <div className='directory-menu'>
-      <Directory />
-    </div>
+    {/* <div className='directory-menu'> */}
+    <Directory />
+    {/* </div> */}
   </div>
 )
 
